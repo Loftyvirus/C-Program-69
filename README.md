@@ -1,9 +1,13 @@
 # C-Program-69
-#include&lt;loftyvirus.h>
-This is C program related problem solution plus their output
-the process is you make a c program file in a notepad,notepad+,VSC or you can use c compiler softare as <a href ="https://bloodshed-dev-c.en.softonic.com/">DEV C+</a>
-after you download the software make the program and save anywhere in .bat style and run as administrator....</br>
-Peace!
+This is C program related problem solution plus their output<br>
+the process involved is <br>
+1= Download <a href ="https://bloodshed-dev-c.en.softonic.com/">DEV C+</a><br>
+2=Copy the above program and paste into your software or simply understand logic and do it yourself</br>
+3=save it as something.bat<br>
+4=run it as administrator<br>
+here I have some technical difficulty since i have powershell,cmd,linux,ubuntu,arch terminal in same path so I use online compiler but I suggest you use yur cmd!!!</br>
+THnaks</br>
+OUTPUTS
 <br>
 <b>RESULTS<b>
 </br>
